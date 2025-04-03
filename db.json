@@ -1,0 +1,404 @@
+{
+  "cart": [
+    {
+      "1": 1,
+      "id": "9e62"
+    },
+    {
+      "1": 2,
+      "id": "9e62"
+    }
+  ],
+  "category": [
+    {
+      "name": "Meat",
+      "image": "menu_1"
+    },
+    {
+      "name": "Vegetables",
+      "image": "menu_2"
+    },
+    {
+      "name": "Fruits",
+      "image": "menu_3"
+    },
+    {
+      "name": "Deserts",
+      "image": "menu_4"
+    },
+    {
+      "name": "Breakfast",
+      "image": "menu_5"
+    },
+    {
+      "name": "Dairy",
+      "image": "menu_6"
+    },
+    {
+      "name": "Baby",
+      "image": "menu_7"
+    },
+    {
+      "name": "Cosmetics",
+      "image": "menu_8"
+    }
+  ],
+  "products": [
+    {
+      "index": 1,
+      "name": "Vaseline",
+      "description": "Petroleum Jelly",
+      "price": 150,
+      "picture": "cosmetics_4.png",
+      "category": "Cosmetics",
+      "rating": 4.5,
+      "numberOfRatings": 230,
+      "quantityAvailable": 50
+    },
+    {
+      "index": 2,
+      "name": "Nivea Lotion",
+      "description": "Moisturizing Lotion",
+      "price": 250,
+      "picture": "cosmetics_1.png",
+      "category": "Cosmetics",
+      "rating": 4.2,
+      "numberOfRatings": 185,
+      "quantityAvailable": 35
+    },
+    {
+      "index": 3,
+      "name": "Nivea Cream",
+      "description": "Face and Body Cream",
+      "price": 300,
+      "picture": "cosmetics_2.png",
+      "category": "Cosmetics",
+      "rating": 4.7,
+      "numberOfRatings": 310,
+      "quantityAvailable": 70
+    },
+    {
+      "index": 4,
+      "name": "Kajal",
+      "description": "Eye Makeup",
+      "price": 100,
+      "picture": "cosmetics_3.png",
+      "category": "Cosmetics",
+      "rating": 4,
+      "numberOfRatings": 120,
+      "quantityAvailable": 20
+    },
+    {
+      "index": 5,
+      "name": "Dairy Product",
+      "description": "Milk or Yogurt",
+      "price": 50,
+      "picture": "dairy_1.png",
+      "category": "Dairy",
+      "rating": 4.3,
+      "numberOfRatings": 95,
+      "quantityAvailable": 0
+    },
+    {
+      "index": 6,
+      "name": "Dairy Product",
+      "description": "Milk or Yogurt",
+      "price": 50,
+      "picture": "dairy_2.png",
+      "category": "Dairy",
+      "rating": 4.4,
+      "numberOfRatings": 110,
+      "quantityAvailable": 40
+    },
+    {
+      "index": 7,
+      "name": "Cheese",
+      "description": "Packaged Cheese",
+      "price": 200,
+      "picture": "dairy_3.png",
+      "category": "Dairy",
+      "rating": 4.6,
+      "numberOfRatings": 200,
+      "quantityAvailable": 25
+    },
+    {
+      "index": 8,
+      "name": "Nutella",
+      "description": "Hazelnut Spread",
+      "price": 350,
+      "picture": "deserts_1.png",
+      "category": "Desserts",
+      "rating": 4.8,
+      "numberOfRatings": 450,
+      "quantityAvailable": 60
+    },
+    {
+      "index": 9,
+      "name": "Chocolate Bar",
+      "description": "Milk Chocolate",
+      "price": 80,
+      "picture": "deserts_2.png",
+      "category": "Desserts",
+      "rating": 4.5,
+      "numberOfRatings": 270,
+      "quantityAvailable": 45
+    },
+    {
+      "index": 10,
+      "name": "Biscuits",
+      "description": "Pack of Cookies",
+      "price": 120,
+      "picture": "deserts_3.png",
+      "category": "Desserts",
+      "rating": 4.2,
+      "numberOfRatings": 160,
+      "quantityAvailable": 30
+    },
+    {
+      "index": 11,
+      "name": "Apple",
+      "description": "Fresh Apple",
+      "price": 60,
+      "picture": "fruits_1.png",
+      "category": "Fruits",
+      "rating": 4.3,
+      "numberOfRatings": 190,
+      "quantityAvailable": 80
+    },
+    {
+      "index": 12,
+      "name": "Banana",
+      "description": "Bunch of Bananas",
+      "price": 40,
+      "picture": "fruits_2.png",
+      "category": "Fruits",
+      "rating": 4.6,
+      "numberOfRatings": 250,
+      "quantityAvailable": 90
+    },
+    {
+      "index": 13,
+      "name": "Orange",
+      "description": "Fresh Oranges",
+      "price": 50,
+      "picture": "fruits_3.png",
+      "category": "Fruits",
+      "rating": 4.4,
+      "numberOfRatings": 210,
+      "quantityAvailable": 75
+    },
+    {
+      "index": 14,
+      "name": "Meat",
+      "description": "Meat Product",
+      "price": 400,
+      "picture": "meat_1.png",
+      "category": "Meat",
+      "rating": 4.1,
+      "numberOfRatings": 130,
+      "quantityAvailable": 15
+    },
+    {
+      "index": 15,
+      "name": "Meat",
+      "description": "Meat Product",
+      "price": 400,
+      "picture": "meat_2.png",
+      "category": "Meat",
+      "rating": 4.2,
+      "numberOfRatings": 145,
+      "quantityAvailable": 10
+    },
+    {
+      "index": 16,
+      "name": "Lemon",
+      "description": "Fresh Lemon",
+      "price": 20,
+      "picture": "vegetables_1.png",
+      "category": "Vegetables",
+      "rating": 4.5,
+      "numberOfRatings": 170,
+      "quantityAvailable": 100
+    },
+    {
+      "index": 17,
+      "name": "Carrot",
+      "description": "Fresh Carrots",
+      "price": 30,
+      "picture": "vegetables_2.png",
+      "category": "Vegetables",
+      "rating": 4.3,
+      "numberOfRatings": 150,
+      "quantityAvailable": 85
+    },
+    {
+      "index": 18,
+      "name": "Broccoli",
+      "description": "Fresh Broccoli",
+      "price": 70,
+      "picture": "vegetables_3.png",
+      "category": "Vegetables",
+      "rating": 4.4,
+      "numberOfRatings": 165,
+      "quantityAvailable": 55
+    }
+  ],
+  "recipes": [
+    {
+      "recipeName": "Fruit and Yogurt Parfait",
+      "description": "A healthy and refreshing breakfast or snack.",
+      "ingredients": [
+        {
+          "item": "Dairy Product (Yogurt)",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Apple",
+          "quantity": "1/2, sliced"
+        },
+        {
+          "item": "Banana",
+          "quantity": "1/2, sliced"
+        },
+        {
+          "item": "Orange",
+          "quantity": "1/2, segmented"
+        },
+        {
+          "item": "Granola",
+          "quantity": "1/4 cup"
+        },
+        {
+          "item": "Honey (Pantry Staple)",
+          "quantity": "1 tbsp (optional)"
+        }
+      ],
+      "instructions": [
+        "Layer yogurt, fruits, and granola in a glass or bowl.",
+        "Repeat layers until all ingredients are used.",
+        "Drizzle with honey if desired.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "recipeName": "Quick Fruit Salad",
+      "description": "A simple and colorful fruit salad.",
+      "ingredients": [
+        {
+          "item": "Apple",
+          "quantity": "1, chopped"
+        },
+        {
+          "item": "Banana",
+          "quantity": "2, sliced"
+        },
+        {
+          "item": "Orange",
+          "quantity": "2, segmented"
+        },
+        {
+          "item": "Lemon",
+          "quantity": "1/2, juice"
+        },
+        {
+          "item": "Mint Leaves (Pantry Staple)",
+          "quantity": "Few, chopped (optional)"
+        }
+      ],
+      "instructions": [
+        "Combine chopped apple, sliced banana, and orange segments in a bowl.",
+        "Squeeze lemon juice over the fruit to prevent browning and enhance flavor.",
+        "Gently toss to combine.",
+        "Garnish with chopped mint leaves if desired.",
+        "Serve chilled."
+      ]
+    },
+    {
+      "recipeName": "Chocolate Banana Dessert",
+      "description": "A simple sweet treat.",
+      "ingredients": [
+        {
+          "item": "Banana",
+          "quantity": "1, sliced"
+        },
+        {
+          "item": "Nutella",
+          "quantity": "2 tbsp"
+        },
+        {
+          "item": "Chocolate Bar",
+          "quantity": "2 squares, melted"
+        }
+      ],
+      "instructions": [
+        "Arrange banana slices on a plate.",
+        "Spoon Nutella over the banana slices.",
+        "Drizzle melted chocolate over the Nutella and bananas.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "recipeName": "Cheese and Fruit Platter",
+      "description": "A simple appetizer or snack.",
+      "ingredients": [
+        {
+          "item": "Cheese",
+          "quantity": "1 block, sliced"
+        },
+        {
+          "item": "Apple",
+          "quantity": "1, sliced"
+        },
+        {
+          "item": "Orange",
+          "quantity": "1, segmented"
+        },
+        {
+          "item": "Biscuits",
+          "quantity": "Few"
+        }
+      ],
+      "instructions": [
+        "Arrange cheese slices, apple slices, and orange segments on a platter.",
+        "Serve with biscuits."
+      ]
+    },
+    {
+      "recipeName": "Broccoli and Carrot Salad",
+      "description": "A healthy vegetable side dish.",
+      "ingredients": [
+        {
+          "item": "Broccoli",
+          "quantity": "1 head, florets"
+        },
+        {
+          "item": "Carrot",
+          "quantity": "2, shredded"
+        },
+        {
+          "item": "Lemon",
+          "quantity": "1/2, juice"
+        },
+        {
+          "item": "Olive Oil (Pantry Staple)",
+          "quantity": "2 tbsp"
+        },
+        {
+          "item": "Salt (Pantry Staple)",
+          "quantity": "To taste"
+        },
+        {
+          "item": "Pepper (Pantry Staple)",
+          "quantity": "To taste"
+        }
+      ],
+      "instructions": [
+        "Blanch broccoli florets in boiling water for 2-3 minutes until tender-crisp. Drain and cool.",
+        "Combine broccoli florets and shredded carrots in a bowl.",
+        "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+        "Pour dressing over the broccoli and carrots and toss to combine.",
+        "Serve chilled."
+      ]
+    }
+  ]
+}
